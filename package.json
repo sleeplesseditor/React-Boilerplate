@@ -1,0 +1,23 @@
+{
+  "name": "react-boilerplate",
+  "version": "1.0.0",
+  "description": "Basic React Boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sleeplesseditor/React-Boilerplate.git"
+  },
+  "keywords": [
+    "Node",
+    "React"
+  ],
+  "author": "Josh Bryson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sleeplesseditor/React-Boilerplate/issues"
+  },
+  "homepage": "https://github.com/sleeplesseditor/React-Boilerplate#readme"
+}
